@@ -1,6 +1,6 @@
-# VBA log processor
+# VBA + SQL log processor
 
-This was designed for a Windows server where I had no access to any tools other than MS Office.
+This was designed for a Windows server where I had no access to any tools other than MS Office. It runs on simple VBA and SQL.
 
 This is a quick hack for automated txt and csv log processing with a couple of manual steps. There is room for improvement in automation etc. The logs are always in the same format, so the code looks for specific phrases in the file.
 Each log represents one batch of 1 configuration and can have up to ~100k rows/lines of text.
