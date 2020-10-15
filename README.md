@@ -1,4 +1,4 @@
-# vba_log_processor
+# VBA log processor
 
 This was designed for a Windows server where I had no access to any tools other than MS Office.
 
